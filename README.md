@@ -4,6 +4,4 @@
 
 ## 02. 전력사용량 예측 AI 경진대회 
 - 대회 링크: https://dacon.io/competitions/official/235736/overview/description
-- 중간 발표: https://cafe.naver.com/kyonggidna?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D30158586%2526articleid%3D149
-- 최종 발표: [[https://cafe.naver.com/kyonggidna?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D30158586%2526articleid%3D149](https://cafe.naver.com/kyonggidna?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D30158586%2526articleid%3D149)
-](https://cafe.naver.com/kyonggidna?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D30158586%2526articleid%3D149)
+[전력사용량 중간발표 (2).pdf](https://github.com/dojun43/Project/files/9291392/2.pdf)
