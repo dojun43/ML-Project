@@ -4,4 +4,6 @@
 
 ## 02. 전력사용량 예측 AI 경진대회 
 - 대회 링크: https://dacon.io/competitions/official/235736/overview/description
-[전력사용량 중간발표 (2).pdf](https://github.com/dojun43/Project/files/9291392/2.pdf)
+- 중간 발표:  [전력사용량 중간발표.pdf](https://github.com/dojun43/Project/files/9291400/default.pdf)
+- 최종 발표: [전력사용량 최종발표.pdf](https://github.com/dojun43/Project/files/9291403/default.pdf)
+
