@@ -39,6 +39,6 @@
 
 ## 10. 데이콘 Basic 쇼핑몰 지점별 매출액 예측 경진대회
 - 최종 발표: [쇼핑몰 지점별 매출액 예측_최종발표.pdf](https://github.com/dojun43/Project/files/9504009/_.pdf)
-- 
+
 ## 11. 팔당댐 홍수 안전운영에 따른 한강 수위예측 AI 경진대회
 - 대회 링크: https://dacon.io/competitions/official/235949/overview/description
