@@ -4,16 +4,20 @@
 
 ## 02. 태양광 발전량 예측 AI 경진대회
 - 대회 링크: https://dacon.io/competitions/official/235680/overview/description
+- 중간 발표: [태양광 발전량 예측 AI 경진대회_중간발표.pdf](https://github.com/dojun43/Project/files/9503852/AI._.pdf)
+- 최종 발표: [태양광 발전량 예측 AI 경진대회_최종발표.pdf](https://github.com/dojun43/Project/files/9503855/AI._.pdf)
 
 ## 03. 오산시 데이터 분석 공모전
 - 대회 링크: https://www.all-con.co.kr/view/contest/469377
+- 분석 보고서: [오산시 데이터 분석 공모전 분석보고서.pdf](https://github.com/dojun43/Project/files/9503882/default.pdf)
+
 
 ## 04. 제9회 2021 빅콘테스트
 -대회 링크: https://linkareer.com/activity/66552
 
 ## 05. 전력사용량 예측 AI 경진대회 
 - 대회 링크: https://dacon.io/competitions/official/235736/overview/description
-- 중간 발표:  [전력사용량 중간발표.pdf](https://github.com/dojun43/Project/files/9291400/default.pdf)
+- 중간 발표: [전력사용량 중간발표.pdf](https://github.com/dojun43/Project/files/9291400/default.pdf)
 - 최종 발표: [전력사용량 최종발표.pdf](https://github.com/dojun43/Project/files/9291403/default.pdf)
 
 ## 06. KBO 타자 OPS 예측 경진대회
