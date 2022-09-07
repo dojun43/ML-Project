@@ -30,15 +30,20 @@
 - 중간 발표: [항공사 고객 만족도_중간발표.pdf](https://github.com/dojun43/Project/files/9503961/_.pdf)
 - 최종 발표: [항공사 고객 만족도_최종발표.pdf](https://github.com/dojun43/Project/files/9503978/_.pdf)
 
-## 08. 중고차 가격 예측 경진대회
+## 08. 월간 데이콘 신용카드 사용자 연체 예측 AI 경진대회
+- 대회 링크: https://dacon.io/competitions/official/235713/leaderboard
+- 중간 발표: [신용카드 사용자 연체 예측_중간발표.pdf](https://github.com/dojun43/Project/files/9504457/_.pdf)
+- 최종 발표: [신용카드 사용자 연체 예측_최종발표.pdf](https://github.com/dojun43/Project/files/9504458/_.pdf)
+
+## 09. 중고차 가격 예측 경진대회
 - 대회 링크: https://dacon.io/competitions/official/235901/overview/description
 
-## 09. 제1회 KRX 금융 빅데이터 활용 아이디어 경진대회
+## 10. 제1회 KRX 금융 빅데이터 활용 아이디어 경진대회
 - 대회 링크: https://dacon.io/competitions/official/235914/overview/description
 - 최종 발표: [KRX 금융 아이디어_최종발표.pdf](https://github.com/dojun43/Project/files/9503996/KRX._.pdf)
 
-## 10. 데이콘 Basic 쇼핑몰 지점별 매출액 예측 경진대회
+## 11. 데이콘 Basic 쇼핑몰 지점별 매출액 예측 경진대회
 - 최종 발표: [쇼핑몰 지점별 매출액 예측_최종발표.pdf](https://github.com/dojun43/Project/files/9504009/_.pdf)
 
-## 11. 팔당댐 홍수 안전운영에 따른 한강 수위예측 AI 경진대회
+## 12. 팔당댐 홍수 안전운영에 따른 한강 수위예측 AI 경진대회
 - 대회 링크: https://dacon.io/competitions/official/235949/overview/description
