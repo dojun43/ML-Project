@@ -47,4 +47,4 @@
 
 ## 12. 팔당댐 홍수 안전운영에 따른 한강 수위예측 AI 경진대회
 - 대회 링크: https://dacon.io/competitions/official/235949/overview/description
-- PUBLIC 33위/PRIVATE 24
+- PUBLIC 33위/PRIVATE 24위 
