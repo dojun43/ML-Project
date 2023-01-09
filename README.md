@@ -12,6 +12,7 @@
 - 분석 보고서: [오산시 데이터 분석 공모전 분석보고서.pdf](https://github.com/dojun43/Project/files/9503882/default.pdf)
 
 ## 04. 제9회 2021 빅콘테스트
+- 대회 주제: 댐 유입 수량 예측을 통한 최적의 수량 예측 모형 도출
 - 대회 링크: https://linkareer.com/activity/66552
 - 최종 발표: [데이터분석분야_퓨처스리그_홍수ZERO_건강이의 콩주목_결과보고서.pdf](https://github.com/dojun43/Project/files/9503946/_._.ZERO_._.pdf)
 
@@ -48,3 +49,8 @@
 ## 12. 팔당댐 홍수 안전운영에 따른 한강 수위예측 AI 경진대회
 - 대회 링크: https://dacon.io/competitions/official/235949/overview/description
 - PUBLIC 33위/PRIVATE 24위 
+
+## 13. 제10회 2022 빅콘테스트
+- 대회 주제: 앱 사용성 데이터를 통한 대출신청 예측분석
+- 대회 링크: https://www.bigcontest.or.kr/points/content.php
+- 최종 발표: [데이터분석분야_퓨처스부문_덴에이고인물_결과보고서 (3).pdf](https://github.com/dojun43/Project/files/10372399/_._._.3.pdf)
