@@ -53,4 +53,5 @@
 ## 13. 제10회 2022 빅콘테스트
 - 대회 주제: 앱 사용성 데이터를 통한 대출신청 예측분석
 - 대회 링크: https://www.bigcontest.or.kr/points/content.php
-- 최종 발표: [데이터분석분야_퓨처스부문_덴에이고인물_결과보고서 (3).pdf](https://github.com/dojun43/Project/files/10372399/_._._.3.pdf)
+- 최종 발표: [데이터분석분야_퓨처스부문_덴에이고인물_결과보고서.pdf](https://github.com/dojun43/Project/files/10372428/_._._.pdf)
+
