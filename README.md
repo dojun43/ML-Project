@@ -55,3 +55,6 @@
 - 대회 링크: https://www.bigcontest.or.kr/points/content.php
 - 최종 발표: [데이터분석분야_퓨처스부문_덴에이고인물_결과보고서.pdf](https://github.com/dojun43/Project/files/10372428/_._._.pdf)
 
+## 14. 서울시 전력사용량 예측
+- 시계열 자료분석 수업에서 진행한 프로젝트 
+- 발표 자료: [서울시 전력사용량 예측_발표자료.pdf](https://github.com/dojun43/ML-Project/files/12567607/_.pdf)
